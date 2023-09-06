@@ -120,16 +120,3 @@ Special thanks to the authors and contributors of these technologies for their v
 
 Additionally, I would like to express my gratitude to my instructor [Angela Yu](https://twitter.com/yu_angela "Twitter") for her guidance and support throughout the development of this project.
 
----
-
-## 🚀 About Me
-
-* I'm a final year BCA undergraduate and a full-stack developer.
-
-
-### Contact Details
-* Email: amankrsinha07@gmail.com
-
-* LinkedIn Profile: [@AmanKumarSinha](https://www.linkedin.com/in/amankumarsinha)
-
----
